@@ -1,0 +1,6 @@
+[submodule "android-app"]
+	path = android-app
+	url = https://github.com/Dev-Chaitanya-67/streak-tracker-app.git
+[submodule "web-app"]
+	path = web-app
+	url = https://github.com/Dev-Chaitanya-67/streak-tracker-web.git
